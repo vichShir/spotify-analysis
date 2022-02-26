@@ -1,0 +1,3964 @@
+{
+  "playlists": [
+    {
+      "name": "Minha playlist nº 10",
+      "lastModifiedDate": "2021-07-28",
+      "items": [
+        {
+          "track": {
+            "trackName": "Changes",
+            "artistName": "Black Sabbath",
+            "albumName": "Vol. 4",
+            "trackUri": "spotify:track:4MpIwDaZdFLafMDcAx4k4q"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Starman - 2012 Remaster",
+            "artistName": "David Bowie",
+            "albumName": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+            "trackUri": "spotify:track:0pQskrTITgmCMyr85tb9qq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Space Oddity - 2015 Remaster",
+            "artistName": "David Bowie",
+            "albumName": "David Bowie (aka Space Oddity)",
+            "trackUri": "spotify:track:72Z17vmmeQKAg8bptWvpVG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Angels' Share",
+            "artistName": "Geddy Lee",
+            "albumName": "My Favorite Headache",
+            "trackUri": "spotify:track:1mAFKniHLRQSpd8wWani14"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "For What It's Worth",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:3HIvUCPsvELgIW7GNrXyK5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Pass - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:0pT7Vws8MhBLXx7rwqOwMD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Presto - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:0TfPS1dhsUTGISdvXAoPES"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bravado - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:7fCntOTBEH6rshHhWX7hKG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hope - Instrumental",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:3aAB9ANGuZSVnz1wUHStOh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "True Confessions",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Agents Of Fortune",
+            "trackUri": "spotify:track:6sH5tkQoXL3YKV0hpXZoWj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "And You and I - 2003 Remaster",
+            "artistName": "Yes",
+            "albumName": "Close to the Edge",
+            "trackUri": "spotify:track:2IDIxX8L57lsOczvSMQRFd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Spread Your Wings - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "News Of The World",
+            "trackUri": "spotify:track:0nUCaKwNqO5whVAhEX1A1R"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sunshine Of Your Love",
+            "artistName": "Cream",
+            "albumName": "Disraeli Gears",
+            "trackUri": "spotify:track:6FRwDxXsvSasw0y2eDArsz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Strange Brew",
+            "artistName": "Cream",
+            "albumName": "Disraeli Gears",
+            "trackUri": "spotify:track:3ET8TZWF5sP4SPfJK1lKun"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let Me In Your Heart Again - William Orbit Mix",
+            "artistName": "Queen",
+            "albumName": "Let Me In Your Heart Again",
+            "trackUri": "spotify:track:5pj6dyHx3qrmag2O9Y1ZG5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Breakthru - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "The Miracle",
+            "trackUri": "spotify:track:5Nuxdf0f5PpaeaPm4jrhiE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "No One But You (Only The Good Die Young) - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "The Platinum Collection",
+            "trackUri": "spotify:track:1Z7bb5kCneFw3kAXVpYfUe"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All Dead, All Dead - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "News Of The World",
+            "trackUri": "spotify:track:7ksIO530pyjuT7MLJy3F8O"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heaven For Everyone",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:4VKAoFw5bk4f3IpXdzy7Vh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baba O'Riley",
+            "artistName": "The Who",
+            "albumName": "Who's Next",
+            "trackUri": "spotify:track:3qiyyUfYe7CRYLucrPmulD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bargain",
+            "artistName": "The Who",
+            "albumName": "Who's Next",
+            "trackUri": "spotify:track:4Vtl42qX97JBj68TKifBHR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Behind Blue Eyes",
+            "artistName": "The Who",
+            "albumName": "Who's Next",
+            "trackUri": "spotify:track:0cKk8BKEi7zXbdrYdyqBP5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Love the Night",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Spectres",
+            "trackUri": "spotify:track:4hO1SWYmqJF6X7O5rZaE6R"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Twilight Zone",
+            "artistName": "Rush",
+            "albumName": "2112",
+            "trackUri": "spotify:track:0QHY2cPwl7GpgC4WO5Onql"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lessons",
+            "artistName": "Rush",
+            "albumName": "2112",
+            "trackUri": "spotify:track:0hB7p4rUwkpVyNifHxTXXT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tears",
+            "artistName": "Rush",
+            "albumName": "2112",
+            "trackUri": "spotify:track:5L2dN3m2sliHCEojBDt7wR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Something For Nothing",
+            "artistName": "Rush",
+            "albumName": "2112",
+            "trackUri": "spotify:track:4bGkklcgdZvIUtoqIc7wcd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jacob's Ladder",
+            "artistName": "Rush",
+            "albumName": "Permanent Waves",
+            "trackUri": "spotify:track:341PPpWkAUkEQeIdQQDGTo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Different Strings",
+            "artistName": "Rush",
+            "albumName": "Permanent Waves",
+            "trackUri": "spotify:track:2BlPpQDClWGXuYttAmQcBY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Closer To The Heart",
+            "artistName": "Rush",
+            "albumName": "A Farewell To Kings",
+            "trackUri": "spotify:track:4u3oXuVeOGoByIMz9pnOKf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Emotion Detector",
+            "artistName": "Rush",
+            "albumName": "Power Windows",
+            "trackUri": "spotify:track:4BG64Z9i4XACK6IRWmgIKO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Planet Caravan",
+            "artistName": "Black Sabbath",
+            "albumName": "Paranoid",
+            "trackUri": "spotify:track:7wqF3BU0ykeKch6BcNqGiT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Evil Woman",
+            "artistName": "Black Sabbath",
+            "albumName": "Black Sabbath",
+            "trackUri": "spotify:track:2KtpzJOCmJa29vBLwDUGHQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Black Sabbath",
+            "artistName": "Black Sabbath",
+            "albumName": "Black Sabbath",
+            "trackUri": "spotify:track:1udmPvJoBnqitbeYKKc9mc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wish You Were Here",
+            "artistName": "Pink Floyd",
+            "albumName": "Wish You Were Here",
+            "trackUri": "spotify:track:6mFkJmJqdDVQ1REhVfGgd1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "High Hopes",
+            "artistName": "Pink Floyd",
+            "albumName": "The Division Bell",
+            "trackUri": "spotify:track:5a4MgIUSf9K8wXLSm6xPEx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Echoes",
+            "artistName": "Pink Floyd",
+            "albumName": "Meddle",
+            "trackUri": "spotify:track:7kriFJLY2KOhw5en9iI2jb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "If",
+            "artistName": "Pink Floyd",
+            "albumName": "Atom Heart Mother",
+            "trackUri": "spotify:track:63brgJhrcNFW8ncUhM1mhG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "More Blues",
+            "artistName": "Pink Floyd",
+            "albumName": "More",
+            "trackUri": "spotify:track:4p1qtNoktFkDJy2oeXHmYi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shine On You Crazy Diamond (Pts. 1-5)",
+            "artistName": "Pink Floyd",
+            "albumName": "Wish You Were Here",
+            "trackUri": "spotify:track:6pnwfWyaWjQiHCKTiZLItr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shine On You Crazy Diamond (Pts. 6-9)",
+            "artistName": "Pink Floyd",
+            "albumName": "Wish You Were Here",
+            "trackUri": "spotify:track:21j1PsCiTaO8ZW88UZrh3A"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Territories",
+            "artistName": "Rush",
+            "albumName": "Power Windows",
+            "trackUri": "spotify:track:20mmTwCJPnoA9Gq4Qhbqaj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Manhattan Project",
+            "artistName": "Rush",
+            "albumName": "Power Windows",
+            "trackUri": "spotify:track:3uQDfCKlwfK9Yz10JFcsC7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Middletown Dreams",
+            "artistName": "Rush",
+            "albumName": "Power Windows",
+            "trackUri": "spotify:track:4UbZmqYEzT5vn4UrPzAHu9"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Driven By You",
+            "artistName": "Brian May",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:1P83JLGQz1XXCJ5hTMGRMY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Don't Fool Me",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:6DVF7xZCs6153tuM9NeyeG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let Me Live",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:4jtV8U4336xaMtS5fc9KhK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "These Are The Days Of Our Lives",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:6clsmQJYrDXCFRJQElCKmN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "E.T.I. (Extra Terrestrial Intelligence)",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Agents Of Fortune",
+            "trackUri": "spotify:track:5KBdHzTROSlD3dACh91sZx"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best",
+      "lastModifiedDate": "2021-12-13",
+      "items": [
+        {
+          "track": {
+            "trackName": "The Angels' Share",
+            "artistName": "Geddy Lee",
+            "albumName": "My Favorite Headache",
+            "trackUri": "spotify:track:1mAFKniHLRQSpd8wWani14"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Runaway Train",
+            "artistName": "Geddy Lee",
+            "albumName": "My Favorite Headache",
+            "trackUri": "spotify:track:3cFUgGMpaynZHiuEqv48qn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Favorite Headache",
+            "artistName": "Geddy Lee",
+            "albumName": "My Favorite Headache",
+            "trackUri": "spotify:track:4yKWUl2WR327Ol0MNzOD5B"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Working at Perfekt",
+            "artistName": "Geddy Lee",
+            "albumName": "My Favorite Headache",
+            "trackUri": "spotify:track:10kUVvy3damVfxFRABXKkB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heart Full of Soul",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:3VtrcsvEp3RIwg87GOui3q"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "For What It's Worth",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:3HIvUCPsvELgIW7GNrXyK5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mr. Soul",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:5dkfF6T8QH5myWNt7GUHeo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shapes of Things",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:6gMIafMZuSDsLuCfEJhbln"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Seven and Seven Is",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:5ygL2ee5PAwG8ZnF1fTqlD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bravado - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:7fCntOTBEH6rshHhWX7hKG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roll the Bones - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:2k0xk8GpsST0pcJ0Wck9tE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where's My Thing - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:56FU6yh4O46jrAltLyY2zr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heresy - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:5NLvbki7VVHdfijSsEOPQl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Bet Your Life - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:2LJnqa6OFoKrMdx84CYfGh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Pass - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:0pT7Vws8MhBLXx7rwqOwMD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "War Paint - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:40UDRU6xIODKg1NStpayEt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Presto - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:0TfPS1dhsUTGISdvXAoPES"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Red Tide - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:1KcmYwbviRzSCd2aB5LDke"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Available Light - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:2cGFkKCnNlehBR2CKkjXAF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Anagram - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:5gjLmSIlvHJjCN7qKTnoqi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Animate - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Counterparts",
+            "trackUri": "spotify:track:5uORXVBCCN45rbW5LOuurt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nobody's Hero - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Counterparts",
+            "trackUri": "spotify:track:3Szho175dsJo76urI0OxEO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Alien Shore - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Counterparts",
+            "trackUri": "spotify:track:0IAUgBaT8QFLt1R1TxfK6u"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Faithless",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:2JSwj8qqQZtL5hRcS66IA3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Hold On",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:63JnyvtwaCYqsVQfVwgyuI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hope - Instrumental",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:3aAB9ANGuZSVnz1wUHStOh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Workin' Them Angels",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:36ypZxzbhZOh68bzs1giOd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Limelight",
+            "artistName": "Rush",
+            "albumName": "Moving Pictures",
+            "trackUri": "spotify:track:0K6yUnIKNsFtfIpTgGtcHm"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roundabout - 2003 Remaster",
+            "artistName": "Yes",
+            "albumName": "Fragile",
+            "trackUri": "spotify:track:0YveezON7jpiaHA8fnUHxN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Immigrant Song - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin III",
+            "trackUri": "spotify:track:78lgmZwycJ3nzsdgmPPGNx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kashmir - 1990 Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Physical Graffiti",
+            "trackUri": "spotify:track:2nVHqZbOGkKWzlcy1aMbE7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Long Distance Runaround - 2003 Remaster",
+            "artistName": "Yes",
+            "albumName": "Fragile",
+            "trackUri": "spotify:track:5vfoqFiW6wXwhwa7r523Iq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "(Don't Fear) The Reaper",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Agents Of Fortune",
+            "trackUri": "spotify:track:5QTxFnGygVM4jFQiBovmRo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Godzilla",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Spectres",
+            "trackUri": "spotify:track:6N0AnkdDFZUetw8KAGHV7e"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Burnin' for You",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Fire of Unknown Origin",
+            "trackUri": "spotify:track:3fkPMWQ6cBNBLuFcPyMS8s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Love the Night",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Spectres",
+            "trackUri": "spotify:track:4hO1SWYmqJF6X7O5rZaE6R"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Then Came the Last Days of May",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Blue Oyster Cult",
+            "trackUri": "spotify:track:60TYdVs6TWIsAJ1MPRdv59"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Veteran of the Psychic Wars",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Fire of Unknown Origin",
+            "trackUri": "spotify:track:1bPUK3zBMK73QXmCLzqffn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Astronomy",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Secret Treaties",
+            "trackUri": "spotify:track:2g02rt0UFudctbAnmJsm22"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cities On Flame with Rock and Roll",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Blue Oyster Cult",
+            "trackUri": "spotify:track:0M7oqERflkrJVHD3IAZqxo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heavy Metal: The Black and Silver",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Fire of Unknown Origin",
+            "trackUri": "spotify:track:1uUCpOX86yRGShambUp93O"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Death Valley Nights",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Spectres",
+            "trackUri": "spotify:track:1Zd5KxenhiRD0OpIf9Dfmh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fire of Unknown Origin",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Fire of Unknown Origin",
+            "trackUri": "spotify:track:3OXc6xDxasnl4uj2jl1q4Y"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "True Confessions",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Agents Of Fortune",
+            "trackUri": "spotify:track:6sH5tkQoXL3YKV0hpXZoWj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "That Was Me",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "That Was Me",
+            "trackUri": "spotify:track:4XL5BDScfDdj4QlkStiLzn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "E.T.I. (Extra Terrestrial Intelligence)",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Agents Of Fortune",
+            "trackUri": "spotify:track:5KBdHzTROSlD3dACh91sZx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "In Thee",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Mirrors",
+            "trackUri": "spotify:track:7vm7Bd52OsZmxk3yWulR2u"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Golden Age of Leather",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Spectres",
+            "trackUri": "spotify:track:1BKoilGgL2OgmPKcYQ27vQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sole Survivor",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Fire of Unknown Origin",
+            "trackUri": "spotify:track:2PicnFqnuKd9EwHp2xQvcn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Black Blade",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Cultosaurus Erectus",
+            "trackUri": "spotify:track:4Nyx3c0IPFITNo42yodlrh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Monsters",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Cultosaurus Erectus",
+            "trackUri": "spotify:track:6JtnDjDz5eJ87GOAd8sDbv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Echoes - Live in Gdańsk",
+            "artistName": "David Gilmour",
+            "albumName": "Live in Gdansk",
+            "trackUri": "spotify:track:4RzUcGT0RAmyeEe5wmvz88"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "And You and I - 2003 Remaster",
+            "artistName": "Yes",
+            "albumName": "Close to the Edge",
+            "trackUri": "spotify:track:2IDIxX8L57lsOczvSMQRFd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Spread Your Wings - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "News Of The World",
+            "trackUri": "spotify:track:0nUCaKwNqO5whVAhEX1A1R"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Camera Eye",
+            "artistName": "Rush",
+            "albumName": "Moving Pictures",
+            "trackUri": "spotify:track:0hBby0yygBY1u3m6tSpZgC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mystic Rhythms",
+            "artistName": "Rush",
+            "albumName": "Power Windows",
+            "trackUri": "spotify:track:3wBqON2EX3QFDyFLvl1Tcv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Manhattan Project",
+            "artistName": "Rush",
+            "albumName": "Power Windows",
+            "trackUri": "spotify:track:3uQDfCKlwfK9Yz10JFcsC7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Turn The Page",
+            "artistName": "Rush",
+            "albumName": "Hold Your Fire",
+            "trackUri": "spotify:track:7LHp6fGj4lG47lNceQ0Ltc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Prime Mover",
+            "artistName": "Rush",
+            "albumName": "Hold Your Fire",
+            "trackUri": "spotify:track:2SBKGHPQmo65mz9MxV30Fr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Red Sector A",
+            "artistName": "Rush",
+            "albumName": "Grace Under Pressure",
+            "trackUri": "spotify:track:3PefhAnxRxxxeimzWetwnT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Weapon",
+            "artistName": "Rush",
+            "albumName": "Signals",
+            "trackUri": "spotify:track:71PeEU6DLw7b2UvKuilQ0e"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Countdown",
+            "artistName": "Rush",
+            "albumName": "Signals",
+            "trackUri": "spotify:track:2rIyuURzVLDjENwkmhZ5Gf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Zeitgeist",
+            "artistName": "Black Sabbath",
+            "albumName": "13",
+            "trackUri": "spotify:track:4HFRItYjNrcwT6Vbtbk2i4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Damaged Soul",
+            "artistName": "Black Sabbath",
+            "albumName": "13",
+            "trackUri": "spotify:track:3gY381aWseWtDcnanY9n6u"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Passage To Bangkok",
+            "artistName": "Rush",
+            "albumName": "2112",
+            "trackUri": "spotify:track:1p9hRNRKVFPuYv0ADlkl1l"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Something For Nothing",
+            "artistName": "Rush",
+            "albumName": "2112",
+            "trackUri": "spotify:track:4bGkklcgdZvIUtoqIc7wcd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Twilight Zone",
+            "artistName": "Rush",
+            "albumName": "2112",
+            "trackUri": "spotify:track:0QHY2cPwl7GpgC4WO5Onql"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Anthem",
+            "artistName": "Rush",
+            "albumName": "Fly By Night",
+            "trackUri": "spotify:track:481S5BKOolPHU4VDkDBHqn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bastille Day",
+            "artistName": "Rush",
+            "albumName": "Caress Of Steel",
+            "trackUri": "spotify:track:2fsFnXtYfu3xkz9QXj1pZs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Xanadu",
+            "artistName": "Rush",
+            "albumName": "A Farewell To Kings",
+            "trackUri": "spotify:track:5q7KiSN7znIONR76LAqm7k"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Natural Science",
+            "artistName": "Rush",
+            "albumName": "Permanent Waves",
+            "trackUri": "spotify:track:3sFgH9hqMB6cySLWJOGAJ4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Analog Kid",
+            "artistName": "Rush",
+            "albumName": "Signals",
+            "trackUri": "spotify:track:1rUmVxcEAAMTI7BGp4fiyl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Circumstances",
+            "artistName": "Rush",
+            "albumName": "Hemispheres",
+            "trackUri": "spotify:track:4lShKS7ee6aoC8hbUVOhYG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Enemy Within",
+            "artistName": "Rush",
+            "albumName": "Grace Under Pressure",
+            "trackUri": "spotify:track:6QRQd3I52HHXy59OWAqKNa"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afterimage",
+            "artistName": "Rush",
+            "albumName": "Grace Under Pressure",
+            "trackUri": "spotify:track:1zS3nK868x59ewPAzXat4y"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ghost Rider - 2013 Remix",
+            "artistName": "Rush",
+            "albumName": "Vapor Trails",
+            "trackUri": "spotify:track:6fBVFj2Bg9mo4AsPgsDHYw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Earthshine - 2013 Remix",
+            "artistName": "Rush",
+            "albumName": "Vapor Trails",
+            "trackUri": "spotify:track:1HMiAvNM0klyxplKlwL200"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Between The Wheels",
+            "artistName": "Rush",
+            "albumName": "Grace Under Pressure",
+            "trackUri": "spotify:track:78483g1DX5kIjyRnsGzxo3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "La Villa Strangiato",
+            "artistName": "Rush",
+            "albumName": "Hemispheres",
+            "trackUri": "spotify:track:4CyElmiM9EF9aURGWlPZLi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "When the Levee Breaks - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin IV",
+            "trackUri": "spotify:track:7psfcbjfnXwYIezHstNa1a"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dazed and Confused - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin",
+            "trackUri": "spotify:track:5MWfv4F84sJhScYq18yqbN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nobody's Fault but Mine - 1990 Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Presence",
+            "trackUri": "spotify:track:2mYpbsbzCM3dqrM2XjgSjh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Gallows Pole - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin III",
+            "trackUri": "spotify:track:4S2QZuPFZ9qeHW2sonMJS1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Since I've Been Loving You - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin III",
+            "trackUri": "spotify:track:1SDiiE3v2z89VxC3aVRKHQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hey, Hey, What Can I Do - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Coda",
+            "trackUri": "spotify:track:16VhHtoaOjTU4AJBNSBNQ1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Changes",
+            "artistName": "Black Sabbath",
+            "albumName": "Vol. 4",
+            "trackUri": "spotify:track:4MpIwDaZdFLafMDcAx4k4q"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Before And After",
+            "artistName": "Rush",
+            "albumName": "Rush",
+            "trackUri": "spotify:track:2ix7QGz7AtP7adFF52EDW6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Killer Queen - Live",
+            "artistName": "Queen",
+            "albumName": "Queen Rock Montreal",
+            "trackUri": "spotify:track:0UD2Mxu851XWwT1AkNRNvh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baba O'Riley",
+            "artistName": "The Who",
+            "albumName": "Who's Next",
+            "trackUri": "spotify:track:3qiyyUfYe7CRYLucrPmulD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Closer To The Heart",
+            "artistName": "Rush",
+            "albumName": "A Farewell To Kings",
+            "trackUri": "spotify:track:4u3oXuVeOGoByIMz9pnOKf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Evil Woman",
+            "artistName": "Black Sabbath",
+            "albumName": "Black Sabbath",
+            "trackUri": "spotify:track:2KtpzJOCmJa29vBLwDUGHQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Going to California - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin IV",
+            "trackUri": "spotify:track:70gbuMqwNBE2Y5rkQJE9By"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Take Me Away",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "The Revolution By Night",
+            "trackUri": "spotify:track:6zdMlZyo0XyRNclXyQvVAl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Now I'm Here - Live",
+            "artistName": "Queen",
+            "albumName": "Queen Rock Montreal",
+            "trackUri": "spotify:track:1cdG6PxoGy03y2zppSb8bD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bargain",
+            "artistName": "The Who",
+            "albumName": "Who's Next",
+            "trackUri": "spotify:track:4Vtl42qX97JBj68TKifBHR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lord of This World - 2014 Remaster",
+            "artistName": "Black Sabbath",
+            "albumName": "Master of Reality",
+            "trackUri": "spotify:track:3EUJS9hmoZPYCFuUctnfCz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Behind Blue Eyes",
+            "artistName": "The Who",
+            "albumName": "Who's Next",
+            "trackUri": "spotify:track:0cKk8BKEi7zXbdrYdyqBP5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Highway Star - Remastered 2012",
+            "artistName": "Deep Purple",
+            "albumName": "Machine Head",
+            "trackUri": "spotify:track:3uMmllZo1AfoEnVT4ENCD3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "ME 262",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Secret Treaties",
+            "trackUri": "spotify:track:273lBFpxUCwisTpdnF9cVb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sheer Heart Attack - Live",
+            "artistName": "Queen",
+            "albumName": "Queen Rock Montreal",
+            "trackUri": "spotify:track:2MGcp3IcaE0YcHT8Rkv3Yl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Time",
+            "artistName": "Pink Floyd",
+            "albumName": "The Dark Side of the Moon",
+            "trackUri": "spotify:track:3TO7bbrUKrOSPGRTB5MeCz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Transmaniacon MC",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Blue Oyster Cult",
+            "trackUri": "spotify:track:59ENhfT8TIFjB30TUVG4PA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Will Rock You - Live",
+            "artistName": "Queen",
+            "albumName": "Queen Rock Montreal",
+            "trackUri": "spotify:track:2xoM5JX9KbKhiJD3iQssTj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Paranoid",
+            "artistName": "Black Sabbath",
+            "albumName": "Paranoid",
+            "trackUri": "spotify:track:1jzDzZWeSDBg5fhNc3tczV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Wife",
+            "artistName": "The Who",
+            "albumName": "Who's Next",
+            "trackUri": "spotify:track:04jUWHa4mIZKn7duaD2gXW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wish You Were Here",
+            "artistName": "Pink Floyd",
+            "albumName": "Wish You Were Here",
+            "trackUri": "spotify:track:6mFkJmJqdDVQ1REhVfGgd1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Get Down, Make Love - Live",
+            "artistName": "Queen",
+            "albumName": "Queen Rock Montreal",
+            "trackUri": "spotify:track:1Fkob9An4DxnB5AYOKzRBg"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cinderella Man",
+            "artistName": "Rush",
+            "albumName": "A Farewell To Kings",
+            "trackUri": "spotify:track:2qnPNuQseD2NvWo88MCVGu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tattoo Vampire",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Agents Of Fortune",
+            "trackUri": "spotify:track:1DV0f9SWOku3899QQ8ux93"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Another Brick in the Wall, Pt. 2",
+            "artistName": "Pink Floyd",
+            "albumName": "The Wall",
+            "trackUri": "spotify:track:4gMgiXfqyzZLMhsksGmbQV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Comfortably Numb",
+            "artistName": "Pink Floyd",
+            "albumName": "The Wall",
+            "trackUri": "spotify:track:5HNCy40Ni5BZJFw1TKzRsC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Money",
+            "artistName": "Pink Floyd",
+            "albumName": "The Dark Side of the Moon",
+            "trackUri": "spotify:track:0vFOzaXqZHahrZp6enQwQb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pigs (Three Different Ones)",
+            "artistName": "Pink Floyd",
+            "albumName": "Animals",
+            "trackUri": "spotify:track:0gEaeqVRHPzRc7HMXtOKc7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sheep",
+            "artistName": "Pink Floyd",
+            "albumName": "Animals",
+            "trackUri": "spotify:track:55e99bv2wlgTYtNEYHWtN1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "High Hopes",
+            "artistName": "Pink Floyd",
+            "albumName": "The Division Bell",
+            "trackUri": "spotify:track:5a4MgIUSf9K8wXLSm6xPEx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "If",
+            "artistName": "Pink Floyd",
+            "albumName": "Atom Heart Mother",
+            "trackUri": "spotify:track:63brgJhrcNFW8ncUhM1mhG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fat Old Sun",
+            "artistName": "Pink Floyd",
+            "albumName": "Atom Heart Mother",
+            "trackUri": "spotify:track:5qlckstqDQ2RskL0SJsDYx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "In The End",
+            "artistName": "Rush",
+            "albumName": "Fly By Night",
+            "trackUri": "spotify:track:2T6lFb6HFAOkkOnphgwA2R"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale - Medley",
+            "artistName": "Rush",
+            "albumName": "2112",
+            "trackUri": "spotify:track:5H8xFHau0x3PI1CssO6EaX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Florida Man",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "The Symbol Remains",
+            "trackUri": "spotify:track:6XEe0KctR5H9ll1HMQrBZr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Alchemist",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "The Symbol Remains",
+            "trackUri": "spotify:track:6gqBQnqc30AV9Z8mFu20EF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Secret Road",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "The Symbol Remains",
+            "trackUri": "spotify:track:4D0rMWGCN4xQzSgLDOj634"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fight",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "The Symbol Remains",
+            "trackUri": "spotify:track:4QULNfm0fGOq1x7Z6ufi0O"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stand and Fight",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "The Symbol Remains",
+            "trackUri": "spotify:track:0d6toPSchGTRM7HOGGE8Sy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Edge of the World",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "The Symbol Remains",
+            "trackUri": "spotify:track:7jVe2goPxC3aDq6BRgqPMo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nightmare Epiphany",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "The Symbol Remains",
+            "trackUri": "spotify:track:4bNuSqQByGNwVSYBttd9Jm"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Box in My Head",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "The Symbol Remains",
+            "trackUri": "spotify:track:6QJmMsK2vCvxPvkeaPFM0F"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Spoonful",
+            "artistName": "Howlin' Wolf",
+            "albumName": "Howlin' Wolf",
+            "trackUri": "spotify:track:7j02rdE5RVtNcNMuLGY5SS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Born Under A Bad Sign (with Stevie Ray Vaughan)",
+            "artistName": "Albert King",
+            "albumName": "Stax Profiles: Albert King",
+            "trackUri": "spotify:track:6tLKN3h7VxBpwJ2DqVLT4z"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Born Under A Bad Sign",
+            "artistName": "Cream",
+            "albumName": "Wheels Of Fire",
+            "trackUri": "spotify:track:2uxsnsH0XzOBZkMrSFVmll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Crossroads",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:0VX5SeVK2VbE7QCmckXUaP"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "RushInspiration",
+      "lastModifiedDate": "2020-08-28",
+      "items": [
+        {
+          "track": {
+            "trackName": "Cygnus X-1: Book II Hemispheres - The Sphere (A Kind Of Dream) - Live At Pinkpop Festival, Netherlands/1979",
+            "artistName": "Rush",
+            "albumName": "Hemispheres",
+            "trackUri": "spotify:track:67UYyEvzyi7xt86pyA8o5k"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Closer To The Heart - Live At Pinkpop Festival, Netherlands/1979",
+            "artistName": "Rush",
+            "albumName": "Hemispheres",
+            "trackUri": "spotify:track:4LqOOZcWio12i6NQiVA1Ab"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Camera Eye",
+            "artistName": "Rush",
+            "albumName": "Moving Pictures",
+            "trackUri": "spotify:track:0hBby0yygBY1u3m6tSpZgC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Vital Signs",
+            "artistName": "Rush",
+            "albumName": "Moving Pictures",
+            "trackUri": "spotify:track:1k0GxoZYv3Yx5mNeXMOZN2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Big Money",
+            "artistName": "Rush",
+            "albumName": "Power Windows",
+            "trackUri": "spotify:track:4f6CJbnASHEtQspSwqoYlr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Manhattan Project",
+            "artistName": "Rush",
+            "albumName": "Power Windows",
+            "trackUri": "spotify:track:3uQDfCKlwfK9Yz10JFcsC7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mystic Rhythms",
+            "artistName": "Rush",
+            "albumName": "Power Windows",
+            "trackUri": "spotify:track:3wBqON2EX3QFDyFLvl1Tcv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Time Stand Still",
+            "artistName": "Rush",
+            "albumName": "Hold Your Fire",
+            "trackUri": "spotify:track:1uqGSvSc207Zlgi4sGr9RQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Force Ten",
+            "artistName": "Rush",
+            "albumName": "Hold Your Fire",
+            "trackUri": "spotify:track:2B36scXmm2xG35ILOJMmxf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Presto - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:0TfPS1dhsUTGISdvXAoPES"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "War Paint - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:40UDRU6xIODKg1NStpayEt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chain Lightning - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:4QzFXz0zLYh1R7GU8PFNHa"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dreamline - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:1hM2HXmeYuEe1VTf0O1IFU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Animate - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Counterparts",
+            "trackUri": "spotify:track:5uORXVBCCN45rbW5LOuurt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "YYZ - Rio Live",
+            "artistName": "Rush",
+            "albumName": "Rush in Rio",
+            "trackUri": "spotify:track:4ie9a7aQFIUFnOOTeZxtLc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Pass - Rio Live",
+            "artistName": "Rush",
+            "albumName": "Rush in Rio",
+            "trackUri": "spotify:track:1Eh0FDAab5TnUdsBquNGRp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ghost Rider - Rio Live",
+            "artistName": "Rush",
+            "albumName": "Rush in Rio",
+            "trackUri": "spotify:track:5qItIJ3clfXYXPF8D9h0AQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Main Monkey Business - Instrumental",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:3uBiydBKLwlAk9f3lICpVo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Available Light - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:2cGFkKCnNlehBR2CKkjXAF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Anagram - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:5gjLmSIlvHJjCN7qKTnoqi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heart Full of Soul",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:3VtrcsvEp3RIwg87GOui3q"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "For What It's Worth",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:3HIvUCPsvELgIW7GNrXyK5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mr. Soul",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:5dkfF6T8QH5myWNt7GUHeo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shapes of Things",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:6gMIafMZuSDsLuCfEJhbln"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Bet Your Life - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:2LJnqa6OFoKrMdx84CYfGh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Resist - R30 Live Version",
+            "artistName": "Rush",
+            "albumName": "R30",
+            "trackUri": "spotify:track:1OGE2P7Cl86gRC3v7OuiU6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Resist - Acoustic; Rio Live",
+            "artistName": "Rush",
+            "albumName": "Rush in Rio",
+            "trackUri": "spotify:track:6LEBH45mfp7GOsCWT317Fj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heart Full of Soul - R30 Live Version",
+            "artistName": "Rush",
+            "albumName": "R30",
+            "trackUri": "spotify:track:02aF3npr51MbXFKvailv0m"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Resist - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Test for Echo",
+            "trackUri": "spotify:track:1DpppbKBTc83vX2sb3k3tc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cities On Flame with Rock and Roll",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Blue Oyster Cult",
+            "trackUri": "spotify:track:0M7oqERflkrJVHD3IAZqxo"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Sono",
+      "lastModifiedDate": "2020-01-01",
+      "items": [
+        {
+          "track": {
+            "trackName": "Made In Heaven - 2011 Remaster",
+            "artistName": "Queen",
+            "albumName": "Made In Heaven",
+            "trackUri": "spotify:track:4NTMIFWtDXnWN4hDSBlKOf"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "ITA",
+      "lastModifiedDate": "2019-12-31",
+      "items": [
+        {
+          "track": {
+            "trackName": "Here Comes The Sun - Remastered 2009",
+            "artistName": "The Beatles",
+            "albumName": "Abbey Road",
+            "trackUri": "spotify:track:6dGnYIeXmHdcikdzNNDMm2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Yesterday - Remastered 2009",
+            "artistName": "The Beatles",
+            "albumName": "Help!",
+            "trackUri": "spotify:track:3BQHpFgAp4l80e1XslIjNI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "When the Levee Breaks - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin IV",
+            "trackUri": "spotify:track:05f8Hg3RSfiPSCBQOtxl3i"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "High Hopes",
+            "artistName": "Pink Floyd",
+            "albumName": "The Division Bell",
+            "trackUri": "spotify:track:5a4MgIUSf9K8wXLSm6xPEx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All My Love - 1990 Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "In Through the out Door",
+            "trackUri": "spotify:track:6lrh9jZ1xoMwoErgPSj2rY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Babe I'm Gonna Leave You - 1990 Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin",
+            "trackUri": "spotify:track:4OMu5a8sFpcRCPCcsoEaov"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Changes",
+            "artistName": "Black Sabbath",
+            "albumName": "Vol. 4",
+            "trackUri": "spotify:track:4MpIwDaZdFLafMDcAx4k4q"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Can't Quit You Baby - 1990 Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin",
+            "trackUri": "spotify:track:62QInSlXQI11BR9ycVWjd6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bravado - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:7fCntOTBEH6rshHhWX7hKG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Pass - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Presto",
+            "trackUri": "spotify:track:0pT7Vws8MhBLXx7rwqOwMD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Garden",
+            "artistName": "Rush",
+            "albumName": "Clockwork Angels",
+            "trackUri": "spotify:track:6CRNYiqBld7XK4plDLk3lL"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Inspiração",
+      "lastModifiedDate": "2020-03-14",
+      "items": [
+        {
+          "track": {
+            "trackName": "Let Me In Your Heart Again - William Orbit Mix",
+            "artistName": "Queen",
+            "albumName": "Let Me In Your Heart Again",
+            "trackUri": "spotify:track:5pj6dyHx3qrmag2O9Y1ZG5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sunny Day",
+            "artistName": "Roger Taylor",
+            "albumName": "Fun On Earth",
+            "trackUri": "spotify:track:1AXwQOFlVZ84Ib0O7M4b6h"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Breakthru - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "The Miracle",
+            "trackUri": "spotify:track:5Nuxdf0f5PpaeaPm4jrhiE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "O'Malley's Break - Live in Cleveland",
+            "artistName": "Rush",
+            "albumName": "Time Machine 2011: Live In Cleveland",
+            "trackUri": "spotify:track:0eTOcyfTqfutyBWbbAD6Yh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Closer to the Heart - Live in Cleveland",
+            "artistName": "Rush",
+            "albumName": "Time Machine 2011: Live In Cleveland",
+            "trackUri": "spotify:track:3frkRLXM4ueVHWCj300k2U"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "No One But You (Only The Good Die Young) - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "The Platinum Collection",
+            "trackUri": "spotify:track:1Z7bb5kCneFw3kAXVpYfUe"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Peke's Repose (Guitar Solo) / Halo Effect [with Clockwork Angels String Ensemble] [Live on Clockwork Angels Tour]",
+            "artistName": "Rush",
+            "albumName": "Clockwork Angels Tour",
+            "trackUri": "spotify:track:6J6nHaxeRubBEYLMjW47OF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All Dead, All Dead - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "News Of The World",
+            "trackUri": "spotify:track:7ksIO530pyjuT7MLJy3F8O"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heaven For Everyone",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:4VKAoFw5bk4f3IpXdzy7Vh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lakeside Park - Live",
+            "artistName": "Rush",
+            "albumName": "Caress Of Steel",
+            "trackUri": "spotify:track:3MfS6EixnNddUaOReff2aI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Big Wheel - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:2dt7SFawiOvxi2Fxr7oy0O"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bravado - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:7fCntOTBEH6rshHhWX7hKG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dreamline - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:1hM2HXmeYuEe1VTf0O1IFU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hope - Snakes & Arrows Live Version",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows Live",
+            "trackUri": "spotify:track:4Jnhl8sVVMYyrTMEcvCnhU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Distant Early Warning - Snakes & Arrows Live Version",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows Live",
+            "trackUri": "spotify:track:3RVaJJ8hVkbFNfGwnoR7CX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Something For Nothing",
+            "artistName": "Rush",
+            "albumName": "2112",
+            "trackUri": "spotify:track:4bGkklcgdZvIUtoqIc7wcd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Under Pressure - Rah Mix",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:1MKMMux7dQp4TW3xWO0wxu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Show Must Go On - Live / Theatre National de Chaillot, Paris / 1997",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:4GRyEnshYyoShwFtgNRqKa"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Coming Up Close",
+            "artistName": "'Til Tuesday",
+            "albumName": "Welcome Home",
+            "trackUri": "spotify:track:6ZCkhQPdBtUzZPkkO1o9cx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Doing All Right - BBC Session / February 5th 1973, Langham 1 Studio",
+            "artistName": "Queen",
+            "albumName": "On Air",
+            "trackUri": "spotify:track:1TE5vQsrINuoC2g5EoAR9p"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Starship Trooper: a. Life Seeker, b. Disillusion, c. Würm",
+            "artistName": "Yes",
+            "albumName": "The Yes Album",
+            "trackUri": "spotify:track:1K75F5lMyhGFqbM8HwWSpS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hey, Hey, What Can I Do - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Coda",
+            "trackUri": "spotify:track:16VhHtoaOjTU4AJBNSBNQ1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Started A Joke",
+            "artistName": "Bee Gees",
+            "albumName": "Idea",
+            "trackUri": "spotify:track:36CKza28wMxYdjdzji7ine"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cygnus X-1: Book II Hemispheres - The Sphere (A Kind Of Dream) - Live At Pinkpop Festival, Netherlands/1979",
+            "artistName": "Rush",
+            "albumName": "Hemispheres",
+            "trackUri": "spotify:track:67UYyEvzyi7xt86pyA8o5k"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 1
+    },
+    {
+      "name": "Animada Rock",
+      "lastModifiedDate": "2019-08-05",
+      "items": [
+        {
+          "track": {
+            "trackName": "Kashmir - Live: O2 Arena, London - December 10, 2007",
+            "artistName": "Led Zeppelin",
+            "albumName": "Celebration Day",
+            "trackUri": "spotify:track:4k4tFDl5rmRAA7L7gIjBTI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Good Times Bad Times - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Mothership",
+            "trackUri": "spotify:track:3tcaltthSz9s6awB6koVRo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heartbreaker - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Mothership",
+            "trackUri": "spotify:track:3I7a9joX0lJnK9XzE38GnD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tie Your Mother Down - Live At Wembley Stadium / July 1986",
+            "artistName": "Queen",
+            "albumName": "Live At Wembley Stadium",
+            "trackUri": "spotify:track:5Hh11AVOcg6kz2u0jkBRtE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "In the Lap of the Gods...Revisited - Live, Wembley Stadium, July 1986",
+            "artistName": "Queen",
+            "albumName": "Live At Wembley Stadium",
+            "trackUri": "spotify:track:77HQv8DULZBOuLYk09lojh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Crossroads",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:0VX5SeVK2VbE7QCmckXUaP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Summertime Blues",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:0E70jrvuv9CkmjiQ2bcZLJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Anthem",
+            "artistName": "Rush",
+            "albumName": "Fly By Night",
+            "trackUri": "spotify:track:481S5BKOolPHU4VDkDBHqn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Test for Echo - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Test for Echo",
+            "trackUri": "spotify:track:0uV03rQUQn4j6HhWz7Nt2T"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Driven - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Test for Echo",
+            "trackUri": "spotify:track:6ezVZ1BT2caoc10Y1ReWKr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Our Song",
+            "artistName": "Yes",
+            "albumName": "90125",
+            "trackUri": "spotify:track:4PGtzzHJMmp4H3HBpdDUee"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Working Man",
+            "artistName": "Rush",
+            "albumName": "Rush",
+            "trackUri": "spotify:track:1gkn90ExKRNAOlhDs4RoW0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "In The Mood",
+            "artistName": "Rush",
+            "albumName": "Rush",
+            "trackUri": "spotify:track:2CB4yzH1SBr0q85YniII0M"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Take A Friend",
+            "artistName": "Rush",
+            "albumName": "Rush",
+            "trackUri": "spotify:track:11KIDPIj4gFZ43Q6szqAfB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Need Some Love",
+            "artistName": "Rush",
+            "albumName": "Rush",
+            "trackUri": "spotify:track:4ssrDczLOdo1veDL3LgHwI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Burnin' for You",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Fire of Unknown Origin",
+            "trackUri": "spotify:track:3fkPMWQ6cBNBLuFcPyMS8s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Godzilla",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Spectres",
+            "trackUri": "spotify:track:6N0AnkdDFZUetw8KAGHV7e"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Animada inspirada",
+      "lastModifiedDate": "2019-12-06",
+      "items": [
+        {
+          "track": {
+            "trackName": "My Favorite Headache",
+            "artistName": "Geddy Lee",
+            "albumName": "My Favorite Headache",
+            "trackUri": "spotify:track:4yKWUl2WR327Ol0MNzOD5B"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Working at Perfekt",
+            "artistName": "Geddy Lee",
+            "albumName": "My Favorite Headache",
+            "trackUri": "spotify:track:10kUVvy3damVfxFRABXKkB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nobody's Hero - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Counterparts",
+            "trackUri": "spotify:track:3Szho175dsJo76urI0OxEO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Beneath, Between & Behind",
+            "artistName": "Rush",
+            "albumName": "Fly By Night",
+            "trackUri": "spotify:track:0bh40rcAYgtvLgS77L9SRi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Making Memories",
+            "artistName": "Rush",
+            "albumName": "Fly By Night",
+            "trackUri": "spotify:track:2qxfjiwmOcxaepHaGqhRjR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "In The End",
+            "artistName": "Rush",
+            "albumName": "Fly By Night",
+            "trackUri": "spotify:track:2T6lFb6HFAOkkOnphgwA2R"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Big Wheel - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:2dt7SFawiOvxi2Fxr7oy0O"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ghost of a Chance - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:6kZsLcq0dKjKvFWOyY5gzt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heresy - 2004 Remaster",
+            "artistName": "Rush",
+            "albumName": "Roll the Bones",
+            "trackUri": "spotify:track:5NLvbki7VVHdfijSsEOPQl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heart Full of Soul",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:3VtrcsvEp3RIwg87GOui3q"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Before And After",
+            "artistName": "Rush",
+            "albumName": "Rush",
+            "trackUri": "spotify:track:2ix7QGz7AtP7adFF52EDW6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fly By Night",
+            "artistName": "Rush",
+            "albumName": "Fly By Night",
+            "trackUri": "spotify:track:54TaGh2JKs1pO9daXNXI5q"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "It Can Happen",
+            "artistName": "Yes",
+            "albumName": "90125",
+            "trackUri": "spotify:track:52Lz3HKBItvMWuSNDBixq3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "These Are The Days Of Our Lives",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:6clsmQJYrDXCFRJQElCKmN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Miracle - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits II",
+            "trackUri": "spotify:track:625y4LM6vsi4oeZDdXxXW1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Pass - Rio Live",
+            "artistName": "Rush",
+            "albumName": "Rush in Rio",
+            "trackUri": "spotify:track:1Eh0FDAab5TnUdsBquNGRp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bravado - Rio Live",
+            "artistName": "Rush",
+            "albumName": "Rush in Rio",
+            "trackUri": "spotify:track:6TzYSNfTrfgauZwKITljUU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "(Don't Fear) The Reaper",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Agents Of Fortune",
+            "trackUri": "spotify:track:5QTxFnGygVM4jFQiBovmRo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cities On Flame with Rock and Roll",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Blue Oyster Cult",
+            "trackUri": "spotify:track:0M7oqERflkrJVHD3IAZqxo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Veteran of the Psychic Wars",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Fire of Unknown Origin",
+            "trackUri": "spotify:track:1bPUK3zBMK73QXmCLzqffn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Love the Night",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Spectres",
+            "trackUri": "spotify:track:4hO1SWYmqJF6X7O5rZaE6R"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Somebody To Love - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "A Day At The Races",
+            "trackUri": "spotify:track:3vCHmbyOgc6pgwLUWfU4pF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Of My Life - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "A Night At The Opera",
+            "trackUri": "spotify:track:1luVGXHe7oimtkPScdsKBe"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Save Me - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "The Game",
+            "trackUri": "spotify:track:1pBFEy8cz0Fq4Pru0c4awd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Don't Fool Me - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "Made In Heaven",
+            "trackUri": "spotify:track:1chxAv59LZcOE5FyrlUze2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "No One But You (Only The Good Die Young) - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "The Platinum Collection",
+            "trackUri": "spotify:track:1Z7bb5kCneFw3kAXVpYfUe"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All Dead, All Dead - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "News Of The World",
+            "trackUri": "spotify:track:7ksIO530pyjuT7MLJy3F8O"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "'39 - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "A Night At The Opera",
+            "trackUri": "spotify:track:65NTcXUtOb27NHKQ4fAcw0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Garden",
+            "artistName": "Rush",
+            "albumName": "Clockwork Angels",
+            "trackUri": "spotify:track:6CRNYiqBld7XK4plDLk3lL"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Who Wants To Live Forever - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits II",
+            "trackUri": "spotify:track:3SGP8It5WDnCONyApJKRTJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Too Much Love Will Kill You",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:6a0bGgN3heaoN211kvpCEz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Las Palabras De Amor (The Words Of Love)",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:54yTYc6V2ByxpXwGAFmv7p"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let Me Live",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:4jtV8U4336xaMtS5fc9KhK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "In the Lap of the Gods...Revisited - Live, Wembley Stadium, July 1986",
+            "artistName": "Queen",
+            "albumName": "Live At Wembley Stadium",
+            "trackUri": "spotify:track:77HQv8DULZBOuLYk09lojh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Is This the World We Created? - Live At Wembley Stadium / July 1986",
+            "artistName": "Queen",
+            "albumName": "Live At Wembley Stadium",
+            "trackUri": "spotify:track:5LoEFpFcFXm6JMQIT9DOK1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Twilight Zone",
+            "artistName": "Rush",
+            "albumName": "2112",
+            "trackUri": "spotify:track:0QHY2cPwl7GpgC4WO5Onql"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tears",
+            "artistName": "Rush",
+            "albumName": "2112",
+            "trackUri": "spotify:track:5L2dN3m2sliHCEojBDt7wR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Halo Effect",
+            "artistName": "Rush",
+            "albumName": "Clockwork Angels",
+            "trackUri": "spotify:track:6oZJhVw9oYz6MN1SBMPYFu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Losing It - Live R40 Tour",
+            "artistName": "Rush",
+            "albumName": "R40 Live",
+            "trackUri": "spotify:track:6u5hqhR0SXezCXPWdE9fGO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "How It Is - Live R40 Tour",
+            "artistName": "Rush",
+            "albumName": "R40 Live",
+            "trackUri": "spotify:track:4TZCHc0e08MARzh9dXHOcI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Voices Carry",
+            "artistName": "'Til Tuesday",
+            "albumName": "Voices Carry (Expanded Edition)",
+            "trackUri": "spotify:track:0ZYf6N5eBeXStMri0mf3DZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Resist - Acoustic; Rio Live",
+            "artistName": "Rush",
+            "albumName": "Rush in Rio",
+            "trackUri": "spotify:track:6LEBH45mfp7GOsCWT317Fj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Coming Up Close",
+            "artistName": "'Til Tuesday",
+            "albumName": "Welcome Home",
+            "trackUri": "spotify:track:6ZCkhQPdBtUzZPkkO1o9cx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "She Loves You - Remastered 2009",
+            "artistName": "The Beatles",
+            "albumName": "Past Masters",
+            "trackUri": "spotify:track:48JM82SHQTBYkhEYhMaOaa"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hey Jude - Remastered 2015",
+            "artistName": "The Beatles",
+            "albumName": "1",
+            "trackUri": "spotify:track:0aym2LBJBk9DAYuHHutrIl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Death Valley Nights",
+            "artistName": "Blue Öyster Cult",
+            "albumName": "Spectres",
+            "trackUri": "spotify:track:1Zd5KxenhiRD0OpIf9Dfmh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let Me In Your Heart Again - William Orbit Mix",
+            "artistName": "Queen",
+            "albumName": "Let Me In Your Heart Again",
+            "trackUri": "spotify:track:5pj6dyHx3qrmag2O9Y1ZG5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "What Is and What Should Never Be - 1990 Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin II",
+            "trackUri": "spotify:track:5G7uLHtoEW140QOcBpJlfz"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "The Who - Playlist",
+      "lastModifiedDate": "2019-05-04",
+      "items": [
+        {
+          "track": {
+            "trackName": "Bargain - Live",
+            "artistName": "The Who",
+            "albumName": "Live In Hyde Park",
+            "trackUri": "spotify:track:4fQQS590vhRdrjpYUaBcTC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Eminence Front - Live",
+            "artistName": "The Who",
+            "albumName": "Live In Hyde Park",
+            "trackUri": "spotify:track:7bVuzu6gHpFay5ynWMm60h"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baba O'Riley - Live",
+            "artistName": "The Who",
+            "albumName": "Live In Hyde Park",
+            "trackUri": "spotify:track:0r6z5bT124M4HrdwgdRFqH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Can't Explain - Live",
+            "artistName": "The Who",
+            "albumName": "Live In Hyde Park",
+            "trackUri": "spotify:track:001eBEwI5rclswimfiRsoi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Seeker - Live",
+            "artistName": "The Who",
+            "albumName": "Live In Hyde Park",
+            "trackUri": "spotify:track:5h8VCUC8qNsQV9b9wQECIP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Wife",
+            "artistName": "The Who",
+            "albumName": "Live at the Royal Albert Hall",
+            "trackUri": "spotify:track:05jh9wPoc6g3NldTrt1nFJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Who Are You - Live",
+            "artistName": "The Who",
+            "albumName": "Live In Hyde Park",
+            "trackUri": "spotify:track:1u5wntFKJGbUjHxqLeEBu8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Won't Get Fooled Again - Young Vic Live Mix",
+            "artistName": "The Who",
+            "albumName": "Who's Next",
+            "trackUri": "spotify:track:2NfNAfHQLUQpxjZiyc1CRy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pictures Of Lily - Live",
+            "artistName": "The Who",
+            "albumName": "Live In Hyde Park",
+            "trackUri": "spotify:track:38r6W6wV5AcYggQPNV3U4n"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Generation - Live",
+            "artistName": "The Who",
+            "albumName": "Live In Hyde Park",
+            "trackUri": "spotify:track:0FtFYWCr6lxRbYIGMXu7pT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Behind Blue Eyes - Live",
+            "artistName": "The Who",
+            "albumName": "Live In Hyde Park",
+            "trackUri": "spotify:track:7EPppGynx9X3ColoGkp8D3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pinball Wizard - Live",
+            "artistName": "The Who",
+            "albumName": "Live In Hyde Park",
+            "trackUri": "spotify:track:6eYzMOx8ysMhxHrGkvS6vM"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Playlist 1",
+      "lastModifiedDate": "2019-04-17",
+      "items": [
+        {
+          "track": {
+            "trackName": "Working Man",
+            "artistName": "Rush",
+            "albumName": "Rush",
+            "trackUri": "spotify:track:1gkn90ExKRNAOlhDs4RoW0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Crossroads",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:0VX5SeVK2VbE7QCmckXUaP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heart Full of Soul",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:3VtrcsvEp3RIwg87GOui3q"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Seeker",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:5bfOSF1W6pwpnTFBxxhger"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Summertime Blues",
+            "artistName": "Rush",
+            "albumName": "Feedback",
+            "trackUri": "spotify:track:0E70jrvuv9CkmjiQ2bcZLJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roundabout - 2003 Remaster",
+            "artistName": "Yes",
+            "albumName": "Fragile",
+            "trackUri": "spotify:track:0YveezON7jpiaHA8fnUHxN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Long Distance Runaround - 2003 Remaster",
+            "artistName": "Yes",
+            "albumName": "Fragile",
+            "trackUri": "spotify:track:5vfoqFiW6wXwhwa7r523Iq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heart of the Sunrise - 2003 Remaster",
+            "artistName": "Yes",
+            "albumName": "Fragile",
+            "trackUri": "spotify:track:7gC6Rbllqf1yXNC02e5jz2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Owner of a Lonely Heart",
+            "artistName": "Yes",
+            "albumName": "90125",
+            "trackUri": "spotify:track:0GTK6TesV108Jj5D3MHsYb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Have Heaven - 2003 Remaster",
+            "artistName": "Yes",
+            "albumName": "Fragile",
+            "trackUri": "spotify:track:6avltRfZeoNa2zWipWNIyp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Presto - Live in Cleveland",
+            "artistName": "Rush",
+            "albumName": "Time Machine 2011: Live In Cleveland",
+            "trackUri": "spotify:track:5cPpn5y3ar41GGd971CFEd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Camera Eye - Live R40 Tour",
+            "artistName": "Rush",
+            "albumName": "R40 Live",
+            "trackUri": "spotify:track:2i036ct8bzZJ3tHD4TKz1P"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Our Song",
+            "artistName": "Yes",
+            "albumName": "90125",
+            "trackUri": "spotify:track:4PGtzzHJMmp4H3HBpdDUee"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "How It Is - Live R40 Tour",
+            "artistName": "Rush",
+            "albumName": "R40 Live",
+            "trackUri": "spotify:track:4TZCHc0e08MARzh9dXHOcI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I've Seen All Good People: a. Your Move, b. All Good People - 2003 Remaster",
+            "artistName": "Yes",
+            "albumName": "The Yes Album",
+            "trackUri": "spotify:track:3skk6UIXV4kepq2bdYy97g"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Who Are You - Lost Verse Mix",
+            "artistName": "The Who",
+            "albumName": "Who Are You",
+            "trackUri": "spotify:track:7JQQAJu6eeo05nkGHh9OIY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baba O'Riley",
+            "artistName": "The Who",
+            "albumName": "Who's Next",
+            "trackUri": "spotify:track:3qiyyUfYe7CRYLucrPmulD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Behind Blue Eyes",
+            "artistName": "The Who",
+            "albumName": "Who's Next",
+            "trackUri": "spotify:track:0cKk8BKEi7zXbdrYdyqBP5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Won't Get Fooled Again - Original Album Version",
+            "artistName": "The Who",
+            "albumName": "Who's Next",
+            "trackUri": "spotify:track:0cJPLFrlV7TTCyPLupHzcH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pinball Wizard",
+            "artistName": "The Who",
+            "albumName": "Tommy",
+            "trackUri": "spotify:track:60C8zGPTdAAmDshHnMuyfc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Will Rock You (Fast) - Live At The Montreal Forum / November 1981",
+            "artistName": "Queen",
+            "albumName": "Queen Rock Montreal",
+            "trackUri": "spotify:track:0Da5NUD5HtnPdswApLWUNk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let Me Entertain You - Live At The Montreal Forum / November 1981",
+            "artistName": "Queen",
+            "albumName": "Queen Rock Montreal",
+            "trackUri": "spotify:track:3SwdcJRPH4kjjmzUatIYeN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Get Down, Make Love - Live At The Montreal Forum / November 1981",
+            "artistName": "Queen",
+            "albumName": "Queen Rock Montreal",
+            "trackUri": "spotify:track:43VpPL4lOvPdSxAOEGECgW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Save Me - Live At The Montreal Forum / November 1981",
+            "artistName": "Queen",
+            "albumName": "Queen Rock Montreal",
+            "trackUri": "spotify:track:1ehPqWM0jyWgJ3XIVnpvhW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Innuendo - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "Innuendo",
+            "trackUri": "spotify:track:4TxOT7mYlkpShICKPVdbvh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Going Slightly Mad - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "Innuendo",
+            "trackUri": "spotify:track:1vD5AvQg8Mf2Me0McsuUR2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Headlong - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "Innuendo",
+            "trackUri": "spotify:track:75ENUdaC0r3jdu9YllYQ3y"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "These Are The Days Of Our Lives - 2011 Remaster",
+            "artistName": "Queen",
+            "albumName": "Innuendo",
+            "trackUri": "spotify:track:0o4ybf9KAlbbmYcvdGLfJY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bijou - 2011 Remaster",
+            "artistName": "Queen",
+            "albumName": "Innuendo",
+            "trackUri": "spotify:track:2VG9XGE8poa9PW5H33VOC2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Show Must Go On - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "Innuendo",
+            "trackUri": "spotify:track:7zv5oGRQoJX09QM3pkvI1w"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Too Much Love Will Kill You",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:6a0bGgN3heaoN211kvpCEz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "No One But You (Only The Good Die Young)",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:6r862ZdyJEHbiZsBOd186U"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thank God It's Christmas",
+            "artistName": "Queen",
+            "albumName": "Greatest Hits III",
+            "trackUri": "spotify:track:0QtJZpyfZF67QF32p41NXa"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Who Wants To Live Forever - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "Queen Forever",
+            "trackUri": "spotify:track:78Uj2ZVdsds9yvJfAw1Qcq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Miracle - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "The Miracle",
+            "trackUri": "spotify:track:6oErvA4QzEuUEwqUwn66H6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Breakthru - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "The Miracle",
+            "trackUri": "spotify:track:1bhdsJD19oLCxvjPN6TFPi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Invisible Man - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "The Miracle",
+            "trackUri": "spotify:track:1aBqMBeUvsLpumtXjXfZP9"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "YYZ - Rio Live",
+            "artistName": "Rush",
+            "albumName": "Rush in Rio",
+            "trackUri": "spotify:track:4ie9a7aQFIUFnOOTeZxtLc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ghost Rider - Rio Live",
+            "artistName": "Rush",
+            "albumName": "Rush in Rio",
+            "trackUri": "spotify:track:5qItIJ3clfXYXPF8D9h0AQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Passage To Bangkok - Live In The UK / 1980",
+            "artistName": "Rush",
+            "albumName": "Exit ... Stage Left",
+            "trackUri": "spotify:track:4fPj9XjpmMVedKjio3cdbR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Spirit Of Radio - Live In Canada / 1980",
+            "artistName": "Rush",
+            "albumName": "Exit ... Stage Left",
+            "trackUri": "spotify:track:4X4siOXRGAmIos8tJG7uy8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Red Barchetta - Live In Canada / 1980",
+            "artistName": "Rush",
+            "albumName": "Exit ... Stage Left",
+            "trackUri": "spotify:track:6kTtpt4ccWlFtgs8e3uQXZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jacob's Ladder - Live In The UK / 1980",
+            "artistName": "Rush",
+            "albumName": "Exit ... Stage Left",
+            "trackUri": "spotify:track:2Zgx4TycztITAyfy5QRn3N"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Xanadu - Live In Canada / 1980",
+            "artistName": "Rush",
+            "albumName": "Exit ... Stage Left",
+            "trackUri": "spotify:track:3THzmYancb8RVehmqItO6G"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "La Villa Strangiato - Live In Canada / 1980",
+            "artistName": "Rush",
+            "albumName": "Exit ... Stage Left",
+            "trackUri": "spotify:track:5QO8pmNfR4kxW5CIcHl5bD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "R30 Overture (Finding My Way, Bastille Day, Anthem, a Passage to Bangkok, Cygnus X1, Hemispheres)",
+            "artistName": "Rush",
+            "albumName": "R30",
+            "trackUri": "spotify:track:4aYH6oBZp2gUWTOWyHlHGp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Turn The Page - Live In New Orleans/1988",
+            "artistName": "Rush",
+            "albumName": "A Show Of Hands",
+            "trackUri": "spotify:track:2DF9G5djjtm8GHrBsNWTBk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Time Stand Still - Live In Birmingham England/1988",
+            "artistName": "Rush",
+            "albumName": "A Show Of Hands",
+            "trackUri": "spotify:track:3C71cpNNkRkmFqgttqXFZS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Who Are You",
+            "artistName": "The Who",
+            "albumName": "Who Are You",
+            "trackUri": "spotify:track:23IJ5wLRhEZ9DOuia5mPiZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tom Sawyer",
+            "artistName": "Rush",
+            "albumName": "Moving Pictures",
+            "trackUri": "spotify:track:3QZ7uX97s82HFYSmQUAN1D"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sunshine Of Your Love",
+            "artistName": "Cream",
+            "albumName": "Disraeli Gears",
+            "trackUri": "spotify:track:6FRwDxXsvSasw0y2eDArsz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dragon Attack - Live At The Montreal Forum / November 1981",
+            "artistName": "Queen",
+            "albumName": "Queen Rock Montreal",
+            "trackUri": "spotify:track:0zgQIBVayv8B4Zmql9xqpn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Far Cry",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:4oln108lelSadoqEFlwCZi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Armor and Sword",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:6ZXtAlyP1lNWfIJ2faQvwP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Workin' Them Angels",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:36ypZxzbhZOh68bzs1giOd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Larger Bowl",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:6XP1lxHvGRqttJq7bogFQ0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Spindrift",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:1dmIlrag3uTxCI815XgXrr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Main Monkey Business - Instrumental",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:3uBiydBKLwlAk9f3lICpVo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Way the Wind Blows",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:4eh73oNd3bMVLI1NSeezm1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hope - Instrumental",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:3aAB9ANGuZSVnz1wUHStOh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Faithless",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:2JSwj8qqQZtL5hRcS66IA3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bravest Face",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:5rlyubwWC7PSllji9QWVVN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Good News First",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:4vGv5xaIUgmzycJlUQXpSp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Malignant Narcissism - Instrumental",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:4nmEn8BaHCNLwvHcwAzhaU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Hold On",
+            "artistName": "Rush",
+            "albumName": "Snakes & Arrows",
+            "trackUri": "spotify:track:63JnyvtwaCYqsVQfVwgyuI"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
