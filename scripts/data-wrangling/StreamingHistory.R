@@ -1,4 +1,4 @@
-# Spotify Analysis - Demo
+# Spotify Analysis - Streaming History
 
 # define work directory
 setwd(choose.dir())

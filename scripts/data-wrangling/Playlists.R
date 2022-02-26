@@ -32,15 +32,21 @@ playlist_data_to_dataframe <- function(playlist_data, index)
   trackNames <- sapply(playlist_data$playlists[[index]][[3]], function(x) x[[1]][1])
   artistNames <- sapply(playlist_data$playlists[[index]][[3]], function(x) x[[1]][2])
   albumNames <- sapply(playlist_data$playlists[[index]][[3]], function(x) x[[1]][3])
+  trackUris <- sapply(playlist_data$playlists[[index]][[3]], function(x) x[[1]][4])
   
   # convert to vector
   trackNames <- unlist(trackNames)
   artistNames <- unlist(artistNames)
   albumNames <- unlist(albumNames)
+  trackUris <- unlist(trackUris)
+  
+  # split track uri
+  trackUris <- unlist(sapply(strsplit(trackUris, split = ":"), function(x) x[3]))
   
   # create playlist data frame
   playlist_hist <- data.frame("trackName" = trackNames, "artistName" = artistNames,
-                              "albumName" = albumNames, stringsAsFactors = TRUE)
+                              "albumName" = albumNames, "trackUri" = trackUris,
+                              stringsAsFactors = TRUE)
   return(playlist_hist)
 }
 

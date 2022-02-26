@@ -38,15 +38,21 @@ names(library_data$artists[[1]])
 artists <- sapply(library_data$tracks, function(x) x[1])
 albums <- sapply(library_data$tracks, function(x) x[2])
 tracks <- sapply(library_data$tracks, function(x) x[3])
+uris <- sapply(library_data$tracks, function(x) x[4])
 
 # convert to vector
 artists <- unlist(artists)
 albums <- unlist(albums)
 tracks <- unlist(tracks)
+uris <- unlist(uris)
+
+# split track uri
+uris <- unlist(sapply(strsplit(uris, split = ":"), function(x) x[3]))
 
 # create library data frame
 library_hist <- data.frame("artist" = artists, "album" = albums,
-                           "track" = tracks, stringsAsFactors = TRUE)
+                           "track" = tracks, "uri" = uris,
+                           stringsAsFactors = TRUE)
 View(library_hist)
 str(library_hist)
 summary(library_hist)
