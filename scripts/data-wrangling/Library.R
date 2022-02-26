@@ -34,7 +34,19 @@ names(library_data$tracks[[1]])
 names(library_data$albums[[1]])
 names(library_data$artists[[1]])
 
-# structuring streaming data
+get_id_from_uri <- function(uri)
+{
+  # split
+  splitted <- strsplit(uri, split = ":")
+  
+  # get id from split
+  id <- sapply(splitted, function(x) x[3])
+  
+  return(unlist(id))
+}
+
+### Library Tracks ###
+# structuring tracks data
 artists <- sapply(library_data$tracks, function(x) x[1])
 albums <- sapply(library_data$tracks, function(x) x[2])
 tracks <- sapply(library_data$tracks, function(x) x[3])
@@ -47,15 +59,60 @@ tracks <- unlist(tracks)
 uris <- unlist(uris)
 
 # split track uri
-uris <- unlist(sapply(strsplit(uris, split = ":"), function(x) x[3]))
+uris <- get_id_from_uri(uris)
 
 # create library data frame
-library_hist <- data.frame("artist" = artists, "album" = albums,
-                           "track" = tracks, "uri" = uris,
-                           stringsAsFactors = TRUE)
-View(library_hist)
-str(library_hist)
-summary(library_hist)
+library_tracks <- data.frame("artist" = artists, "album" = albums,
+                             "track" = tracks, "uri" = uris,
+                             stringsAsFactors = TRUE)
+View(library_tracks)
+str(library_tracks)
+summary(library_tracks)
 
 # export data frame
-write.csv(library_hist,"../../data/csv/your_library.csv", row.names = FALSE)
+write.csv(library_tracks,"../../data/csv/library/library_tracks.csv", row.names = FALSE)
+
+### Library Albums ###
+# structuring tracks data
+artists <- sapply(library_data$albums, function(x) x[1])
+albums <- sapply(library_data$albums, function(x) x[2])
+uris <- sapply(library_data$albums, function(x) x[3])
+
+# convert to vector
+artists <- unlist(artists)
+albums <- unlist(albums)
+uris <- unlist(uris)
+
+# split track uri
+uris <- get_id_from_uri(uris)
+
+# create library data frame
+library_albums <- data.frame("artist" = artists, "album" = albums,
+                            "uri" = uris, stringsAsFactors = TRUE)
+View(library_albums)
+str(library_albums)
+summary(library_albums)
+
+# export data frame
+write.csv(library_albums,"../../data/csv/library/library_albums.csv", row.names = FALSE)
+
+### Library Artists ###
+# structuring tracks data
+names <- sapply(library_data$artists, function(x) x[1])
+uris <- sapply(library_data$artists, function(x) x[2])
+
+# convert to vector
+names <- unlist(names)
+uris <- unlist(uris)
+
+# split track uri
+uris <- get_id_from_uri(uris)
+
+# create library data frame
+library_artists <- data.frame("name" = names, "uri" = uris, stringsAsFactors = TRUE)
+View(library_artists)
+str(library_artists)
+summary(library_artists)
+
+# export data frame
+write.csv(library_artists,"../../data/csv/library/library_artists.csv", row.names = FALSE)
