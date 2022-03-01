@@ -199,6 +199,23 @@ all_tracks$id <- as.factor(all_tracks$id)
 View(all_tracks)
 summary(all_tracks)
 
+#####################
+# Merge Data Frames #
+#####################
+# merge unique tracks ids with streaming history
+streaming_hist <- merge(streaming_hist, all_tracks, by = "trackName")
+streaming_hist <- streaming_hist %>% select(id, endTime, artistName.x, trackName, msPlayed, isPodcast.x)
+
+# sort by endTime
+streaming_hist <- streaming_hist[order(streaming_hist$endTime),]
+row.names(streaming_hist) <- NULL
+
+# rename columns
+streaming_hist <- rename(streaming_hist, trackID = id, artistName = artistName.x, isPodcast = isPodcast.x)
+View(streaming_hist)
+str(streaming_hist)
+summary(streaming_hist)
+
 # export data frame
 write.csv(all_tracks,"../../data/csv/streaming/streaming_unique.csv", row.names = FALSE)
 
