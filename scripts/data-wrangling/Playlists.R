@@ -44,8 +44,9 @@ playlist_data_to_dataframe <- function(playlist_data, index)
   trackUris <- unlist(sapply(strsplit(trackUris, split = ":"), function(x) x[3]))
   
   # create playlist data frame
-  playlist_hist <- data.frame("trackName" = trackNames, "artistName" = artistNames,
-                              "albumName" = albumNames, "trackUri" = trackUris,
+  playlist_hist <- data.frame("trackID" = trackUris, "artistName" = artistNames,
+                              "trackName" = trackNames,
+                              "albumName" = albumNames,
                               stringsAsFactors = TRUE)
   return(playlist_hist)
 }
