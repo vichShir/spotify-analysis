@@ -1,4 +1,4 @@
-# Spotify Analysis - Demo
+# Spotify Analysis - Library
 
 # define work directory
 setwd(choose.dir())
@@ -44,8 +44,9 @@ get_id_from_uri <- function(uri)
   
   return(unlist(id))
 }
-
-### Library Tracks ###
+######################
+### Library Tracks
+######################
 # structuring tracks data
 artists <- sapply(library_data$tracks, function(x) x[1])
 albums <- sapply(library_data$tracks, function(x) x[2])
@@ -58,12 +59,12 @@ albums <- unlist(albums)
 tracks <- unlist(tracks)
 uris <- unlist(uris)
 
-# split track uri
+# get id from uri
 uris <- get_id_from_uri(uris)
 
 # create library data frame
-library_tracks <- data.frame("artist" = artists, "album" = albums,
-                             "track" = tracks, "uri" = uris,
+library_tracks <- data.frame("trackID" = uris, "artistName" = artists,
+                             "trackName" = tracks, "albumName" = albums,
                              stringsAsFactors = TRUE)
 View(library_tracks)
 str(library_tracks)
@@ -72,7 +73,9 @@ summary(library_tracks)
 # export data frame
 write.csv(library_tracks,"../../data/csv/library/library_tracks.csv", row.names = FALSE)
 
-### Library Albums ###
+######################
+### Library Albums
+######################
 # structuring tracks data
 artists <- sapply(library_data$albums, function(x) x[1])
 albums <- sapply(library_data$albums, function(x) x[2])
@@ -96,7 +99,9 @@ summary(library_albums)
 # export data frame
 write.csv(library_albums,"../../data/csv/library/library_albums.csv", row.names = FALSE)
 
-### Library Artists ###
+######################
+### Library Artists
+######################
 # structuring tracks data
 names <- sapply(library_data$artists, function(x) x[1])
 uris <- sapply(library_data$artists, function(x) x[2])
