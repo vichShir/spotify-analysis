@@ -1,4 +1,4 @@
-# Spotify Analysis - Demo
+# Spotify Analysis - Playlists
 
 # define work directory
 setwd(choose.dir())
@@ -45,8 +45,7 @@ playlist_data_to_dataframe <- function(playlist_data, index)
   
   # create playlist data frame
   playlist_hist <- data.frame("trackID" = trackUris, "artistName" = artistNames,
-                              "trackName" = trackNames,
-                              "albumName" = albumNames,
+                              "trackName" = trackNames, "albumName" = albumNames,
                               stringsAsFactors = TRUE)
   return(playlist_hist)
 }
